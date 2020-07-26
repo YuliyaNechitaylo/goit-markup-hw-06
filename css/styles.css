@@ -31,7 +31,6 @@ html {
 .head {
   display: flex;
   align-items: center;
-  justify-content: flex-end;
 }
 
 img {
@@ -242,7 +241,7 @@ img {
 .list {
   list-style: none;
   display: inline-block;
-  margin-top: 05px;
+  margin-top: 32px;
   margin-bottom: 32px;
   padding-left: 0;
   display: flex;
