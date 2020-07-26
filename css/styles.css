@@ -404,6 +404,7 @@ img {
 .icon-logo:hover {
   --color5: #2196f3;
   --color3: #2196f3;
+  border-color: #2196f3;
 }
 
 .li-clients {
@@ -565,6 +566,7 @@ a {
 .footer-button {
   display: flex;
   justify-content: center;
+  align-items: center;
   color: #f5f4fa;
   background: #188ce8;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
@@ -573,10 +575,11 @@ a {
   font-weight: 500;
   font-size: 16px;
   line-height: 30px;
-  text-align: center;
+
   letter-spacing: 0.03em;
   height: 50px;
   width: 200px;
+  margin-top: 40px;
   border: var(--body-background-color);
 }
 .icon-send {
